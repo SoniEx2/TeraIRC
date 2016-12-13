@@ -1,0 +1,9 @@
+{
+    "id" : "IRC",
+    "version" : "0.1.0-SNAPSHOT",
+    "author" : "SoniEx2",
+    "displayName" : "IRC",
+    "description" : "",
+    "dependencies" : [],
+    "serverSideOnly" : false
+}
